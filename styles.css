@@ -4,9 +4,9 @@
     src: url(Molot.otf);
 }
 
-.mae-bg {
+.atlas-bg {
     background-color: black;
-    background-image: url("src/mae1.jpg");
+    background-image: url("src/beetleshadow.jpg");
     background-size: 100%;
     background-position: 0% 50%;
     background-attachment: fixed;
@@ -17,7 +17,7 @@ body
 {
     color: white;
     background-color: black;
-    background-image: url("src/coco1.jpg");
+    background-image: url("src/beetleshadow.jpg");
     background-size: 100%;
     background-position: 0% 50%;
     background-attachment: fixed;
