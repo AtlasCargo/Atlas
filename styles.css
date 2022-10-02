@@ -196,28 +196,57 @@ div.contact {
     font-size: 20px;
 }
 
-@media only screen and (max-device-width: 480px) {
-        div#wrapper {
-            width: 400px;
-        }
 
-        div#header {
-            background-image: url("src/beetleshadow.jpg");
-            height: 93px;
-            position: relative;
-        }
-
-        div#header h1 {
-            font-size: 140%;
-        }
-
-        #content {
-            float: none;
-            width: 100%;
-        }
-
-        #navigation {
-            float:none;
-            width: auto;
-        }
+/*adapt page for mobile */
+@media (max-width: 499px) {
+  body {
+    background-color: black;
+    background-image: url("src/beetleshadow.jpg");
+    background-size: 100%;
+    background-position: center
+    background-attachment: fixed;
+    text-align: center;
+  }
+  .ul1 {
+        font-size: 35px;
+        padding: 0px;
     }
+    .li1 {
+        float: right;
+    }
+    .a1 {
+        color: white;
+    }
+    .gallery {
+        width: 100%;
+    }
+    .desc {
+        padding: 0px;
+    }
+    .contact {
+        padding: 0px;
+    }
+}
+
+/*adapt page for tablet */
+@media (min-width: 500px) and (max-width: 999px) {
+    .ul1 {
+        font-size: 60px;
+        padding: 0px;
+    }
+    .li1 {
+        float: right;
+    }
+    .a1 {
+        color: white;
+    }
+    .gallery {
+        width: 100%;
+    }
+    .desc {
+        padding: 0px;
+    }
+    .contact {
+        padding: 0px;
+    }
+}
