@@ -204,7 +204,6 @@ div.contact {
     background-image: url("src/beetleshadow.jpg");
     background-size: cover;
     background-position: center
-    background-attachment: fixed;
     text-align: center;
   }
   .ul1 {
@@ -235,7 +234,6 @@ div.contact {
     background-image: url("src/beetleshadow.jpg");
     background-size: cover;
     background-position: center
-    background-attachment: fixed;
     text-align: center;
   }
     .ul1 {
