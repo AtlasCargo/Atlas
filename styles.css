@@ -202,7 +202,7 @@ div.contact {
   body {
     background-color: black;
     background-image: url("src/beetleshadow.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-position: center
     background-attachment: fixed;
     text-align: center;
@@ -230,6 +230,14 @@ div.contact {
 
 /*adapt page for tablet */
 @media (min-width: 500px) and (max-width: 999px) {
+    body {
+    background-color: black;
+    background-image: url("src/beetleshadow.jpg");
+    background-size: cover;
+    background-position: center
+    background-attachment: fixed;
+    text-align: center;
+  }
     .ul1 {
         font-size: 60px;
         padding: 0px;
