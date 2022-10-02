@@ -18,7 +18,7 @@ body
     color: white;
     background-color: black;
     background-image: url("src/beetleshadow.jpg");
-    background-size: 100%;
+    background-height: 100%;
     background-position: 0% 50%;
     background-attachment: fixed;
     text-align: center;
