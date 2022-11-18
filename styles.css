@@ -102,6 +102,9 @@ li a
     padding: 0px 34px;
     text-decoration: none;
 }
+.nav {
+    z-index: 100;
+}
 li a, #navbar, li a:before, #navbar:before, #navbar:after,li a:after {
     transition: all .5s;
 }
