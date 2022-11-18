@@ -175,6 +175,7 @@ div.gallery {
   float: left;
   width: 385px;
   z-index: 1;
+  background-color: black;
   font-family: molot;
 }
 
