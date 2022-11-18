@@ -200,10 +200,10 @@ div.gallery:hover {
   /*would be nice to have a hover function that opens between molotov + models the picture between*/
 }
 
-div.gallery img {
+ /*div.gallery img {
   width: 100%;
   height: auto;
-}
+}*/
 
 div.desc {
   padding: 0px;
