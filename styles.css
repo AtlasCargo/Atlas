@@ -44,15 +44,18 @@ a:hover {
         font-size: 35px;
         padding: 0px;
     }
-    .ul {
+    ul {
         padding: 0px;
     }
-    .li a {
+    li a {
         padding: 0px;
     }
-    .div {
+    div {
         padding: 0px;
         left: 0px;
+    }
+    body {
+        padding: 0px;
     }
 }
 
