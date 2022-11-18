@@ -173,6 +173,7 @@ div.gallery {
   border: 0px solid #ccc;
   float: left;
   width: 385px;
+  z-index: 1;
 }
 
 
