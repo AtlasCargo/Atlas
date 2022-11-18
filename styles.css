@@ -49,6 +49,7 @@ a:hover {
 h1
 {
     color: white;
+    font-family: molot;
 }
 
 
@@ -174,6 +175,7 @@ div.gallery {
   float: left;
   width: 385px;
   z-index: 1;
+  font-family: molot;
 }
 
 
